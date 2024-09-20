@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VaanDxD
-- 👀 I’m interested in learn programming
+- 👀 I’m interested in create games
 - 🌱 I’m currently learning progamming
 - 📫 Discord: vaan.diesel
 - ⚡ Fun fact: im brazillian
