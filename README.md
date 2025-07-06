@@ -1,8 +1,8 @@
-- 👋 Hi, I’m VaanDxD
-- 👀 I’m interested in create games
-- 🌱 I’m currently learning progamming
-- 📫 Discord: vaan.diesel
-- ⚡ Fun fact: im brazillian
+- 👋 Hi, I’m Vaan
+- 👀 I love computers
+- 🌱 Newbie in programation
+- 📫 Discord: vaandxd
+- ⚡ language: phyton 
 
 <!---
 VaanDxD/VaanDxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
